@@ -1,0 +1,38 @@
+1.	Read Number From Standard Input
+2.	Get Input from the User
+    2.1 Using Buffered Reader Class
+    2.2 Using Scanner Class
+    2.3 Using Console Class
+    2.4 Using Command line argument
+    2.5 Using DataInputStream Class
+3.	Multiply Two Floating-Point Numbers
+4.	Swap Two Numbers
+    4.1 Swapping the Values Using Third Variable
+    4.2 Swapping the Values Without Using Third Variable by using sum and differences concepts of math.
+5.	Add Two Binary Strings
+6.	Add Two Complex Numbers
+7.	Check Even or Odd Integers
+    7.1 Brute Force Naive Approach
+    7.2 Using Bitwise OR
+    7.3 Using Bitwise AND
+    7.4 Using Bitwise XOR
+    7.5 Checking the LSB of the Number
+8.	Find Largest Among 3 Numbers
+  8.1 Using Ternary operator
+  8.2 Using the if-else statements
+  8.3 Using Collections.max() method and ArrayList 
+
+9.	Find LCM of 2 numbers
+10.	Find GCD or HCF of 2 numbers
+11.	Display All Prime Numbers from 1 to N
+12.	Check Leap Year
+13.	Check Armstrong Number between Two Integers
+14.	Check whether the input number is a Neon Number
+15.	Check whether input character is vowel or consonant
+16.	Find Factorial of a number
+17.	Find Even Sum of Fibonacci Series Till number N
+18.	Calculate Simple Interest
+19.	Calculate Compound Interest
+20.	Find the Perimeter of a Rectangle
+
+https://www.geeksforgeeks.org/java/java-programming-examples/
